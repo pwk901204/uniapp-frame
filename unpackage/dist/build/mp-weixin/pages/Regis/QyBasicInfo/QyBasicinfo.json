@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "address-chose": "/components/addressChose/addressChose",
+    "hy-tags": "/components/HyTags/Hytags"
+  },
+  "component": true
+}

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "qy-hxtd-item": "/pages/Regis/QyHxtd/item"
+  },
+  "component": true
+}

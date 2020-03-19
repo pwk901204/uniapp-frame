@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "xmrzjl-item": "/pages/Regis/XmRzjl/item"
+  },
+  "component": true
+}

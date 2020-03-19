@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "搜索",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "project-item": "/components/project-item/project-item",
+    "activity-item": "/components/activity-item/activity-item",
+    "investor-item": "/components/investor-item/investor-item"
+  }
+}

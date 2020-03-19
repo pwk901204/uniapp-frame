@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///D:/work/aizhiguang/ai-uniapp/ai-uniapp/main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;;AAEA;AACA,8F;AACAA,UAAU,CAACC,YAAD,CAAV,C","file":"pages/tabBar/API/API.js","sourcesContent":["import 'uni-pages';\n\nimport Vue from 'vue'            \nimport Page from './pages/tabBar/API/API.nvue'\ncreatePage(Page)"],"sourceRoot":""}

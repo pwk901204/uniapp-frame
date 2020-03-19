@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "qy-gqjg-item": "/pages/Regis/QyGqjg/item"
+  },
+  "component": true
+}

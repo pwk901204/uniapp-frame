@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "qy-cwzb-item": "/pages/Regis/QyCwzb/item"
+  },
+  "component": true
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "项目",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "project-item": "/components/project-item/project-item"
+  }
+}

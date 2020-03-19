@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "投资人",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "investor-item": "/components/investor-item/investor-item"
+  }
+}

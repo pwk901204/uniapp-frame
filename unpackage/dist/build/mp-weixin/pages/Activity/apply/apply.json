@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "已报名人员",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "investor-item": "/components/investor-item/investor-item"
+  }
+}

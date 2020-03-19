@@ -1,0 +1,44 @@
+.investor_status{
+	position: absolute;
+	right: 20rpx;
+	top: 25rpx;
+	height: 40upx;
+	width: 150upx;
+	border: 1px solid #f89225;
+	color: #f89225;
+	font-size: 26upx;
+	text-align: center;
+	line-height: 37upx;
+	border-radius: 5px;
+	&.send{
+		color: #31a6e1;
+		border-color: #31a6e1;
+	}
+	&.each{
+		color: #aaaaaa;
+		border-color: #aaaaaa;
+	}
+}
+.investor_dec{
+	.w50{
+		width: 50%;
+	}
+	flex-wrap:wrap;
+	margin-top: 20upx;
+	view{
+		padding-right: 10upx;
+		margin-bottom: 10upx;
+		box-sizing: border-box;
+		width: 100%;
+	}
+	image{
+		width: 30upx;
+		height: 30upx;
+		margin-right: 20upx;
+	}
+	text{
+		width: calc( 100% - 50upx );
+		font-size: 26upx;
+		color: #666;
+	}
+}

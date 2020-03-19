@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "名片夹",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "card-item": "/components/card-item/card-item"
+  }
+}

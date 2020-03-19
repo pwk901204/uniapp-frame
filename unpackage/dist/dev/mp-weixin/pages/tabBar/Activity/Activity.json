@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "活动",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "activity-item": "/components/activity-item/activity-item"
+  }
+}

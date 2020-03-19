@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///D:/work/aizhiguang/xfct-uniapp/main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;;AAEA;AACA,+M;AACAA,UAAU,CAACC,eAAD,CAAV,C","file":"pages/search/Aearch.js","sourcesContent":["import 'uni-pages';\n\nimport Vue from 'vue'            \nimport Page from './pages/search/Aearch.vue'\ncreatePage(Page)"],"sourceRoot":""}

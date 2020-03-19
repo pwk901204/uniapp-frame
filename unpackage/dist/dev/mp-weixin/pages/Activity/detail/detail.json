@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "活动详情",
+  "usingComponents": {
+    "project-item": "/components/project-item/project-item"
+  }
+}

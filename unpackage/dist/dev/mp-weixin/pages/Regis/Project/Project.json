@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "编辑项目",
+  "usingComponents": {
+    "uni-list": "/components/uni-list/uni-list",
+    "uni-list-item": "/components/uni-list-item/uni-list-item",
+    "qy-basic-info": "/pages/Regis/QyBasicInfo/QyBasicinfo",
+    "qy-cwzb": "/pages/Regis/QyCwzb/QyCwzb",
+    "qy-hxtd": "/pages/Regis/QyHxtd/Qyhxtd",
+    "qy-gqjg": "/pages/Regis/QyGqjg/Qygqjg",
+    "xm-basic-info": "/pages/Regis/XmBasinInfo/XmBasininfo",
+    "xm-rzjl": "/pages/Regis/XmRzjl/Xmrzjl",
+    "xm-syjhs": "/pages/Regis/Xmsyjhs/Xmsyjhs"
+  }
+}

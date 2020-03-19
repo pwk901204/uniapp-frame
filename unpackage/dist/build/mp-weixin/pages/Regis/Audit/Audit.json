@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "提交审核资料",
+  "usingComponents": {
+    "uni-list": "/components/uni-list/uni-list",
+    "uni-list-item": "/components/uni-list-item/uni-list-item",
+    "address-chose": "/components/addressChose/addressChose",
+    "hy-tags": "/components/HyTags/Hytags",
+    "address-mul": "/components/MulChoseItem/index"
+  }
+}
